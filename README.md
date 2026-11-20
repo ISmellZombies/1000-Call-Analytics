@@ -65,13 +65,9 @@ The screenshots below are genuine captures of the report rendered in Power BI De
 
 ![Demand Overview](screenshots/full-pages/01-call-demand-dashboard.png)
 
-![Demand Overview report page](screenshots/full-pages/01-call-demand-dashboard.png)
-
 **Findings & Method**
 
 ![Findings and Method](screenshots/full-pages/02-research-findings-dashboard.png)
-
-![Findings and Method report page](screenshots/full-pages/02-research-findings-dashboard.png)
 
 ### Individual visual containers
 
