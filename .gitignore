@@ -1,0 +1,20 @@
+# Power BI Desktop local state and caches
+**/.pbi/
+**/localSettings.json
+**/cache.abf
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Original/private source material (never add to the public package)
+*.docx
+*.xlsx
+*.xlsm
+*.xls
+*raw*
+*private*
+
+# Editor and OS artifacts
+.vscode/
+.idea/
